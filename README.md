@@ -20,7 +20,7 @@ ________________________________________
 2.	python sw.py
 3.	Put the firmware update file in the same folder as sw.py.
 4.	On the device console, run:
-5.	/usr/ota_from http://[your_local_ip]/[update_file_name]
+5.	/usr/ota_from http://[your_local_ip]:8000/[update_file_name]
 6.	Wait for the device to update and reboot.
 ________________________________________
 4. Enable Telnet and SSH
@@ -42,5 +42,6 @@ o	play.sh → /mnt/user1/thttp/http/cgi-bin/
 o	control.sh → /mnt/user1/thttp/http/cgi-bin/
 3.	Copy the index.html from the repository to /mnt/user1/thttp/http/.
 o	Rename the original index.html (e.g., index2.html) if needed.
+To copy files to device you can use running simple webserver (sw) and curl -O http://[your pc ip]:8000/filename
 You can now access the device via its IP address in a browser and control video playback using the web interface.
 
