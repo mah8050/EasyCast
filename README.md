@@ -1,6 +1,6 @@
 
 # EasyCast AM8251 Tools
-
+The factory mobile app for EasyCast devices is limited: it cannot play movies from the phone correctly, requires the phone screen to always stay on, and works very loosely. This project does not stop the factory app from working; it only adds enhanced features to improve device functionality.
 Scripts and guides to access and enhance EasyCast devices powered by the AM8251 CPU. This includes firmware updates, enabling Telnet/SSH, and adding simple web-based media control.
 
 > **Disclaimer:** This repository **does not include proprietary firmware files**. Use only on devices you own and comply with local laws regarding reverse engineering and firmware modifications. Use at your own risk.
