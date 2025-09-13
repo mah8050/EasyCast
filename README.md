@@ -40,7 +40,8 @@ Scripts and guides to access and enhance EasyCast devices powered by the AM8251 
 ---
 
 ### 3. Firmware Update (Optional)
-
+If you're using version lower that 17957001 to have telnet you must update
+firmware can be downloaded from http://cdn.iezcast.com/upgrade/ezcast/official/ezcast_official-17957001.gz
 1. Start a simple web server on your PC:
    ```bash
    python sw.py
