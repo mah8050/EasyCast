@@ -13,7 +13,7 @@ Scripts and guides to access and enhance EasyCast devices powered by the AM8251 
 
 ## Features
 
-- UART and USB access to the device  
+- UART access to the device  
 - Firmware update via local web server  
 - Enable Telnet and SSH with persistent startup  
 - Simple web interface for media playback control  
