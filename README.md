@@ -1,5 +1,9 @@
 
 # EasyCast AM8251 Tools
+“EzCast devices sold under different names—such as EasyCastM2, Bravocast, AnyCastM2, etc.—all share the same form factor and use the AM8251 MCU. This tool is compatible with all AM8251-based devices, regardless of the brand name.”
+
+![EasyCast Device](/Image3)
+
 The factory mobile app for EasyCast devices is limited: it cannot play movies from the phone correctly, requires the phone screen to always stay on, and works very loosely. This project does not stop the factory app from working; it only adds enhanced features to improve device functionality.
 Scripts and guides to access and enhance EasyCast devices powered by the AM8251 CPU. This includes firmware updates, enabling Telnet/SSH, and adding simple web-based media control.
 
